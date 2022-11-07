@@ -1,0 +1,15 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "<Your Function Storage Account Connection String>",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",  
+        "StorageConnectionString": "<Storage Account Connection String for storing Blobs>",
+        "AzureServiceBusConnectionString": "Azure Service Bus Connection String",
+        "ServiceBusQueueName": "<Azure Service Bus Queue Name>",
+        "ACSEmailConnectionString": "<Azure Communication Service connection string>",
+        "ACSEmailSender": "<Azure Communication Service email from>",
+        "EmailReceiver": "<Email of the person receiving address>",
+        "CosmosDBEndPointUri": "<YOUR AZURE COSMOS DB ENDPOINT URI HERE",
+        "CosmosDBKey": "<YOUR AZURE COSMOS DB KEY HERE>"
+    }
+}
