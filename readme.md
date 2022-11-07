@@ -51,3 +51,4 @@ On successful execution, it will run as shown below in the local environment:
 * [Create a function in Azure that's triggered by Blob storage](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
 * [Azure Durable Functions (Function Chaining Example) in C# .NET](https://github.com/jonahandersson/serverless-azure-durable-function-chaining-dotnet-template)
 * [Key vault reference](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli#reference-syntax)
+* [Bindings example with source code](https://learn.microsoft.com/en-us/azure/azure-functions/add-bindings-existing-function?tabs=csharp#manually-add-bindings-based-on-examples)
