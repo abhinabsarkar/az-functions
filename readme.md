@@ -16,7 +16,7 @@ As a best practice, all the connection strings must be stored on the Azure Key V
 
 ## Working Sample
 
-Refer the [sample source code](/src/durable-function-chaining/) for the above architecture.
+Refer the [sample source code](/src/durable-function-chaining/) for implementing the above architecture.
 
 The folder structure shoes below how the code is structured. This is only for visual aid.
 
